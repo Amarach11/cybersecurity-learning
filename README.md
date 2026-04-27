@@ -1,5 +1,12 @@
-# Cybersecurity Learning Portfolio
-This repository documents my cybersecurity learning journey as a beginner.
+Hi, I’m Amarachi 👋  
+
+I’m currently learning Smart Contract Development and Cybersecurity, with a strong interest in how systems are built and secured.
+
+This repository documents my learning journey, research, and hands-on practice in cybersecurity and related areas.
+
+## Cybersecurity Learning Portfolio
+
+This repository contains my notes, research, and practical exercises as I learn cybersecurity from a beginner level.
 
 ## Purpose
 This repository exist to:
